@@ -12,6 +12,6 @@ Beautiful Soup is a Python package for parsing HTML and XML documents (including
 # Steps:
 1. go through the website "http://books.toscrape.com/"
 2. code.py is the python code to scrape the information of each book (image_url, book_title, product_price) in csv file.
-3. run the code.py, it creates a submission.csv file which have information of all books.
+3. run the code.ipynb, it creates a submission.csv file which have information of all books.
 
 
