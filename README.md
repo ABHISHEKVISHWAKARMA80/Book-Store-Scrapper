@@ -1,6 +1,6 @@
 # Book-Store-Scrapper
 (Using Beautiful Soup to Scrape a Book Store)
-Builded a Web Scraper that scrapes all 50 pages of the website and stores the information about books in a CSV file.
+Built a Web Scraper that scrapes all 50 pages of the website and stores the information about books in a CSV file.
 
 # Beautiful Soup
 Beautiful Soup is a Python package for parsing HTML and XML documents (including having malformed markup, i.e. non-closed tags, so named after tag soup). It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
